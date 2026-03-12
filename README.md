@@ -25,9 +25,9 @@ usage examples will be provided later on.
 ## Development
 
 You can build an AliPhysics image corresponding to a particular AliPhysics
-version selected from the [list of published Alice
-packages](http://alimonitor.cern.ch/packages/?packagename=AliPhysics) by setting
-up the `ALIPHYSICS_VERSION` environment variable:
+version selected from the
+[list of published Alice packages](http://alimonitor.cern.ch/packages/?packagename=AliPhysics)
+by setting up the `ALIPHYSICS_VERSION` environment variable:
 
 ```console
 $ export ALIPHYSICS_VERSION=vAN-20170521-1
